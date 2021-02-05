@@ -27,3 +27,8 @@ else {
 }
 var time = setTimeout(digi,1000);
 }
+
+function nohover() {
+  var element = document.getElementById("clock"):
+  element.classList.remove("topnav a:hover");
+}
