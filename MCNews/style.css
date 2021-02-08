@@ -25,3 +25,12 @@
   background-color: #4CAF50;
   color: white;
 }
+
+.mcnews {
+  float: center;
+  color: black;
+  text-align: center;
+  padding: 14px 40px;
+  text-decoration: none;
+  text-size: 17px;
+}
