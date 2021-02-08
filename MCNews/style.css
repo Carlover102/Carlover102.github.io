@@ -27,6 +27,7 @@
 }
 
 .dropbtn {
+  width: 100%;
   background-color: #4CAF50;
   color: white;
   padding: 16px;
