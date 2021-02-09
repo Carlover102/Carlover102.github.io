@@ -27,8 +27,8 @@
 }
 
 .mcnews {
-  align: center;
-  display: block;
+  display: flex;
+  justify-content: center;
   width: 95%;
   border: none;
   background-color: #4CAF50;
